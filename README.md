@@ -1,4 +1,4 @@
-### CSC 357 - Assignment 2
+### CSC 357 Assignment 2 - Pointers and Arrays
 
 Purpose:
 - This assignment involves working with pointers and arrays in C to manipulate and visualize data. Specifically, you will build a program to generate a histogram from a dataset provided in CSV (comma-separated values) format.
